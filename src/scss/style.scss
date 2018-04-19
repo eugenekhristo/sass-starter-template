@@ -1,0 +1,12 @@
+$body-bg: purple;
+
+body {
+   background: $body-bg;
+   columns: 4;
+   color: aliceblue;
+}
+
+input::placeholder {
+   color: red;
+}
+
