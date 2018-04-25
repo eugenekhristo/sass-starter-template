@@ -1,7 +1,7 @@
 {
   "name": "sass_starter_pack",
   "version": "1.0.0",
-  "description": "Boiler plate for sass project",
+  "description": "Boiler plate for simple sass project",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
